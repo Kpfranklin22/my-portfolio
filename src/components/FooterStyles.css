@@ -1,6 +1,6 @@
 .footer{
     width: 100%;
-    padding: 6rem 0;
+    padding: 1rem 0;
     background-color: rgba(19,19,19,0.8);
 }
 
@@ -9,7 +9,7 @@
     margin: auto;
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    grid-gap: 40px
+    grid-gap: 10px
 }
 
 .left{

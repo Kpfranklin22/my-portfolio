@@ -30,12 +30,10 @@ const Footer = () => {
           </div>
           <div className="email">
             <h4>
-              <a href="/contact">
-                <FaMailBulk
-                  size={20}
-                  style={{ color: 'white', marginRight: '2rem' }}
-                />
-              </a>
+              <FaMailBulk
+                size={20}
+                style={{ color: 'white', marginRight: '2rem' }}
+              />
               kpfranklin22@gmail.com
             </h4>
           </div>
@@ -44,9 +42,13 @@ const Footer = () => {
         <div className="right">
           <h4>About the Developer</h4>
           <p>
-            I graduated GA Tech's EDX Full Stack MERN BootCamp. Using MongoDB,
-            Express.js, React.js, and Node I have learned to create applications
-            from front to back end!
+            A hardworking, honest, dependable worker with a sense of humor who
+            is still kid at heart! I love skateboarding, video games,
+            collectibles, and 90s saturday morning cartoons. I enjoy spending
+            time trying new foods and visiting new places with friends! My aim
+            is to bring my lust for life, child-like wonder, and creativity to
+            every space I inhabit and to push the limits of what I'm capable of!
+            I'm looking to join your team or take on your projects!
           </p>
           <div className="social">
             <a href="https://www.linkedin.com/in/kyle-franklin-493906258/">

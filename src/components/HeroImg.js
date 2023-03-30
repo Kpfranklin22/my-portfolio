@@ -17,7 +17,7 @@ const HeroImg = () => {
       <div className="content">
         <p>Welcome Hero! </p>
         <p>Come, have a look at my wares!</p>
-        <h1>Full Stack MERN Junior Developer</h1>
+        <h1>Full Stack MERN Developer</h1>
         <BsJoystick size={150} style={{ color: 'white', marginRight: "10" }} />
         <Link to="/project" className="btn btn-arcade">
           Projects
