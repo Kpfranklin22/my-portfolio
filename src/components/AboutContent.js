@@ -9,7 +9,7 @@ const AboutContent = () => {
   return (
     <div className="about">
       <div className="left">
-        <h1>Who am I?</h1>
+        <h1>About the Developer</h1>
         <p>
           I graduated GA Tech's EDX Full Stack MERN BootCamp. Using MongoDB,
           Express.js, React.js, and Node I have learned to create applications

@@ -40,7 +40,7 @@ const Footer = () => {
         </div>
 
         <div className="right">
-          <h4>About the Developer</h4>
+          <h4>Who am I?</h4>
           <p>
             A hardworking, honest, dependable worker with a sense of humor who
             is still kid at heart! I love skateboarding, video games,

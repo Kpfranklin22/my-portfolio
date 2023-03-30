@@ -7,7 +7,7 @@ const About = () => {
     <div>
       <HeroImg2
         heading="ABOUT."
-        text="I am a full stack MERN junior web developer."
+        text="I am a full stack MERN web developer."
       />
       <AboutContent />
     </div>
