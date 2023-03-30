@@ -9,17 +9,16 @@ import Button from 'react-bootstrap/Button';
 const Resume = () => {
   return (
     <div>
-      <Navbar />
-
       <HeroImg2
         heading="RESUME."
         text="Click the yellow button below to view or download!"
       />
 
-      <Button style={{ position: "relative", left:"46.5%"}} href={pdf}>CLICK HERE</Button>
+      <Button style={{ position: 'relative', left: '46.5%' }} href={pdf}>
+        CLICK HERE
+      </Button>
 
       <AboutContent />
-      <Footer />
     </div>
   );
 };

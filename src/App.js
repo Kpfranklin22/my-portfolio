@@ -13,6 +13,7 @@ import Resume from './routes/Resume';
 function App() {
   return (
     <BrowserRouter>
+          <Navbar />
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/about" element={<About />} />
@@ -20,6 +21,7 @@ function App() {
         <Route path="/contact" element={<Contact />} />
         <Route path="/resume" element={<Resume />} />
       </Routes>
+      <Footer />
     </BrowserRouter>
   );
 }
