@@ -8,12 +8,13 @@ import About from './routes/About';
 import Project from './routes/Project';
 import Contact from './routes/Contact';
 import Resume from './routes/Resume';
-
+import Navbar from './components/Navbar';
+import Footer from './components/Footer';
 
 function App() {
   return (
     <BrowserRouter>
-          <Navbar />
+      <Navbar />
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/about" element={<About />} />
