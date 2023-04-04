@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.ee759884.css",
-    "main.js": "/my-portfolio/static/js/main.c6b9cb5e.js",
+    "main.css": "/my-portfolio/static/css/main.f6df9629.css",
+    "main.js": "/my-portfolio/static/js/main.363d6baa.js",
     "static/media/webdev1.jpg": "/my-portfolio/static/media/webdev1.04e234cbab55e2db4246.jpg",
     "static/media/gameboy-bg.jpg": "/my-portfolio/static/media/gameboy-bg.d6881ce2173e6f27da39.jpg",
     "static/media/webdev2.jpg": "/my-portfolio/static/media/webdev2.ce1bc343d487e0d73b1d.jpg",
@@ -9,13 +9,13 @@
     "static/media/project-pokedex.png": "/my-portfolio/static/media/project-pokedex.3ee1a940016508b562f3.png",
     "static/media/project-ddbb.png": "/my-portfolio/static/media/project-ddbb.7b38a127260419409cd2.png",
     "static/media/project-ee.png": "/my-portfolio/static/media/project-ee.b45cdb9030bfdf26dee8.png",
-    "static/media/sample-resume.pdf": "/my-portfolio/static/media/sample-resume.f8f581ebc53d796c1468.pdf",
+    "static/media/resume.pdf": "/my-portfolio/static/media/resume.0928193793e82cd4b61d.pdf",
     "index.html": "/my-portfolio/index.html",
-    "main.ee759884.css.map": "/my-portfolio/static/css/main.ee759884.css.map",
-    "main.c6b9cb5e.js.map": "/my-portfolio/static/js/main.c6b9cb5e.js.map"
+    "main.f6df9629.css.map": "/my-portfolio/static/css/main.f6df9629.css.map",
+    "main.363d6baa.js.map": "/my-portfolio/static/js/main.363d6baa.js.map"
   },
   "entrypoints": [
-    "static/css/main.ee759884.css",
-    "static/js/main.c6b9cb5e.js"
+    "static/css/main.f6df9629.css",
+    "static/js/main.363d6baa.js"
   ]
 }
