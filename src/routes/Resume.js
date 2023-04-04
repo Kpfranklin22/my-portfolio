@@ -1,7 +1,7 @@
 import React from 'react';
 import HeroImg2 from '../components/HeroImg2';
 import AboutContent from '../components/AboutContent';
-import pdf from '../assets/sample-resume.pdf';
+import pdf from '../assets/resume.pdf';
 import Button from 'react-bootstrap/Button';
 
 const Resume = () => {
@@ -11,11 +11,11 @@ const Resume = () => {
         heading="RESUME."
         text="Click the yellow button below to view or download!"
       />
-
-      <Button style={{ position: 'relative', left: '46.5%' }} href={pdf}>
+      <div class="btn-center">
+      <Button style={{ position: 'relative'}} href={pdf}>
         CLICK HERE
       </Button>
-
+      </div>
       <AboutContent />
     </div>
   );

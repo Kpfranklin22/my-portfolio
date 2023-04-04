@@ -39,6 +39,12 @@ ul{
   border-radius: 49%;
 }
 
+.btn-center{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 .btn-light {
 background: transparent;
 color:white;
