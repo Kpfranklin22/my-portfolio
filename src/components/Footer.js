@@ -43,7 +43,7 @@ const Footer = () => {
           <h4>Who am I?</h4>
           <p>
             A hardworking, honest, dependable worker with a sense of humor who
-            is still kid at heart! I love skateboarding, video games,
+            is still a kid at heart! I love skateboarding, video games,
             collectibles, and 90s saturday morning cartoons. I enjoy spending
             time trying new foods and visiting new places with friends! My aim
             is to bring my lust for life, child-like wonder, and creativity to
