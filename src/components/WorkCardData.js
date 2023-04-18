@@ -1,6 +1,7 @@
 import projectPokedex from '../assets/project-pokedex.png';
 import projectDdBb from '../assets/project-ddbb.png';
 import projectEe from '../assets/project-ee.png';
+import projectFs from '../assets/free-school.png';
 
 const ProjectCardData = [
   {
@@ -24,6 +25,13 @@ const ProjectCardData = [
     view: 'https://digital-diy-bulletin-board.herokuapp.com/',
     source: 'https://github.com/Kpfranklin22/digital-diy-bulletin-board',
   },
+  {
+    imgsrc: projectFs,
+    title: 'Free School',
+    text: 'This website was built for Athens Free School, a local free learning community, to have a class event scheduler for teachers and students to be able to create and join classes!',
+    view: 'https://free-school-706.herokuapp.com/',
+    source: 'https://github.com/Kpfranklin22/free-school',
+  }
 ];
 
 export default ProjectCardData;
